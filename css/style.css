@@ -1,0 +1,37 @@
+.whole {
+  margin: 40px;
+}
+
+ul {
+  width: 450px;
+  margin: 0 auto;
+}
+
+h1,
+#rt {
+  padding: 10px;
+}
+
+.myNav {
+  float: none;
+  display: inline-block;
+}
+
+.navBar {
+  margin-bottom: 0px;
+  border-radius: 0px;
+  text-align: center;
+}
+
+p {
+  padding: 0px 50px;
+}
+
+#quote {
+  font-size: 25px;
+  padding: 0px 50px 50px 50px;
+}
+
+.go {
+  font-size: 20px;
+}
